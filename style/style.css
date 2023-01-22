@@ -1,0 +1,39 @@
+body{
+    background-color: #F0FFF0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Box{
+    width: 400px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.Logo{
+    padding-top: 13px;
+}
+
+.welcome{
+    color: white;
+    letter-spacing: 10px;
+}
+
+.login{
+    border: 4px solid;
+    color: white;
+    height: 45px;
+    line-height: 3px;
+    letter-spacing: 3px;
+    margin: 0px 60px 15px 60px;
+}
+
+.singup{
+    border: 4px solid;
+    height: 45px;
+    line-height: 3px;
+    color: white;
+    letter-spacing: 3px;
+    margin: 15px 60px 0px 60px;
+}
